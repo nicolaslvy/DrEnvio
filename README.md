@@ -101,7 +101,7 @@ ecommerce-app/
 ### 1. Clonar el repositorio
 
 \`\`\`bash
-git clone https://github.com/tu-usuario/ecommerce-app.git
+git clone [https://github.com/tu-usuario/ecommerce-app.git](https://github.com/nicolaslvy/DrEnvio)
 cd ecommerce-app
 \`\`\`
 
